@@ -1,0 +1,10 @@
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\bin\Debug\Oop_GenericList.exe.config
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\bin\Debug\Oop_GenericList.exe
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\bin\Debug\Oop_GenericList.pdb
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.Form1.resources
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.Properties.Resources.resources
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.csproj.GenerateResource.cache
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.exe
+C:\Users\Carbon\source\repos\Oop_GenericList\Oop_GenericList\obj\Debug\Oop_GenericList.pdb
