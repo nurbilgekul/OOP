@@ -1,0 +1,4 @@
+C:\Users\Carbon\source\repos\Oop_DescriptionsandApplications\Oop_DescriptionsandApplications\obj\Debug\Oop_DescriptionsandApplications.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Oop_DescriptionsandApplications\Oop_DescriptionsandApplications\obj\Debug\Oop_DescriptionsandApplications.Properties.Resources.resources
+C:\Users\Carbon\source\repos\Oop_DescriptionsandApplications\Oop_DescriptionsandApplications\obj\Debug\Oop_DescriptionsandApplications.csproj.GenerateResource.cache
+C:\Users\Carbon\source\repos\Oop_DescriptionsandApplications\Oop_DescriptionsandApplications\obj\Debug\Oop_DescriptionsandApplications.csproj.CoreCompileInputs.cache

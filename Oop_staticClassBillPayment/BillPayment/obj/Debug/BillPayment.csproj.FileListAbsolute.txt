@@ -1,0 +1,10 @@
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\bin\Debug\BillPayment.exe.config
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\bin\Debug\BillPayment.exe
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\bin\Debug\BillPayment.pdb
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.Form1.resources
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.Properties.Resources.resources
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.csproj.GenerateResource.cache
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.exe
+C:\Users\Carbon\source\repos\BillPayment\BillPayment\obj\Debug\BillPayment.pdb
