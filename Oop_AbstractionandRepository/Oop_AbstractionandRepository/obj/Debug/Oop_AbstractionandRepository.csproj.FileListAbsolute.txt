@@ -1,0 +1,10 @@
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\bin\Debug\Oop_AbstractionandRepository.exe.config
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\bin\Debug\Oop_AbstractionandRepository.exe
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\bin\Debug\Oop_AbstractionandRepository.pdb
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.Form1.resources
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.Properties.Resources.resources
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.csproj.GenerateResource.cache
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.exe
+C:\Users\Carbon\source\repos\Oop_AbstractionandRepository\Oop_AbstractionandRepository\obj\Debug\Oop_AbstractionandRepository.pdb
