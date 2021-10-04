@@ -22,6 +22,8 @@ namespace BillPayment
         {
            
             MessageBox.Show(StaticMeth.DogalgazHesapla(12,10).ToString());
+            MessageBox.Show(StaticMeth.DogalgazHesapla(15, 2).ToString());
+            MessageBox.Show(StaticMeth.SuHesapla(34).ToString());
         }
     }
 }
