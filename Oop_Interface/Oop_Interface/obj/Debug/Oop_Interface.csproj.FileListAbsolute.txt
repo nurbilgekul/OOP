@@ -1,0 +1,10 @@
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\bin\Debug\Oop_Interface.exe.config
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\bin\Debug\Oop_Interface.exe
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\bin\Debug\Oop_Interface.pdb
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.Form1.resources
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.Properties.Resources.resources
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.csproj.GenerateResource.cache
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.exe
+C:\Users\Carbon\source\repos\Oop_Interface\Oop_Interface\obj\Debug\Oop_Interface.pdb
